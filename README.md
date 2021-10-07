@@ -3,6 +3,8 @@
 ##Overview
 
 It has been discovered that grades from 9th graders Thomas High School are incorrect due to academic dishonesty. The goal of this analysis was to determine how removing the grades of these students affect district summary scores, school summary scores, Thomas High School's overall scores, and scores by grade, school spending, school size, and school type.
+
+
 ##How is the district summary affected?
 
 The average math score decreased by .1, the average reading score stayed the same (to one decimal point), the % passing math decreased by .2%, the % passing reading decreased by .1% and the %overall passing decreased by .3%.
