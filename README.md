@@ -70,7 +70,7 @@ District	        77.0	                  81.0              66.5	            80.8 
 - There the scores by school type were unchanged (to 1 decimal place).
 
 ##Summary
-Four changes after removing 9th grader scores from Thomas High school were
+-  Four changes after removing 9th grader scores from Thomas High school were
 1) Overall district summary scores and % passing values decreased a little bit.
 2) Overall scores and % passing values for Thomas high school decreased a bit.
 3) Thomas High School % passing reading ranking dropped to 3rd.
